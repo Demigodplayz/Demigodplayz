@@ -42,18 +42,14 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 1. 💪 Opened PR [#47](https://github.com/Bluegrams/ScreenRuler/pull/47) in [Bluegrams/ScreenRuler](https://github.com/Bluegrams/ScreenRuler)
 2. 🔱 Forked [Demigodplayz/ScreenRuler](https://github.com/Demigodplayz/ScreenRuler) from [Bluegrams/ScreenRuler](https://github.com/Bluegrams/ScreenRuler)
 3. 💪 Opened PR [#28](https://github.com/Crazy-Marvin/EllaTheGame/pull/28) in [Crazy-Marvin/EllaTheGame](https://github.com/Crazy-Marvin/EllaTheGame)
 4. 🔱 Forked [Demigodplayz/EllaTheGame](https://github.com/Demigodplayz/EllaTheGame) from [Crazy-Marvin/EllaTheGame](https://github.com/Crazy-Marvin/EllaTheGame)
 5. 💪 Opened PR [#44](https://github.com/Marusyk/grok.net/pull/44) in [Marusyk/grok.net](https://github.com/Marusyk/grok.net)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 31st, 2021, 5:15:46 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
+<!--END_SECTION:activity-->
+  
 </details>
 
 <details>
