@@ -43,10 +43,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/TriflesGames/GA-SDK-UNITY/pull/1) in [TriflesGames/GA-SDK-UNITY](https://github.com/TriflesGames/GA-SDK-UNITY)
-2. 💪 Opened PR [#1](https://github.com/TriflesGames/GA-SDK-UNITY/pull/1) in [TriflesGames/GA-SDK-UNITY](https://github.com/TriflesGames/GA-SDK-UNITY)
-3. 💪 Opened PR [#11](https://github.com/KevenDenen/LinqRebuilt/pull/11) in [KevenDenen/LinqRebuilt](https://github.com/KevenDenen/LinqRebuilt)
-4. 💪 Opened PR [#47](https://github.com/Bluegrams/ScreenRuler/pull/47) in [Bluegrams/ScreenRuler](https://github.com/Bluegrams/ScreenRuler)
+1. 🎉 Merged PR [#2](https://github.com/Trifles-Games-Packages/GA-SDK-UNITY/pull/2) in [Trifles-Games-Packages/GA-SDK-UNITY](https://github.com/Trifles-Games-Packages/GA-SDK-UNITY)
+2. 💪 Opened PR [#2](https://github.com/Trifles-Games-Packages/GA-SDK-UNITY/pull/2) in [Trifles-Games-Packages/GA-SDK-UNITY](https://github.com/Trifles-Games-Packages/GA-SDK-UNITY)
+3. ❌ Closed PR [#1](https://github.com/TriflesGames/GA-SDK-UNITY/pull/1) in [TriflesGames/GA-SDK-UNITY](https://github.com/TriflesGames/GA-SDK-UNITY)
+4. 💪 Opened PR [#1](https://github.com/TriflesGames/GA-SDK-UNITY/pull/1) in [TriflesGames/GA-SDK-UNITY](https://github.com/TriflesGames/GA-SDK-UNITY)
 5. 💪 Opened PR [#28](https://github.com/Crazy-Marvin/EllaTheGame/pull/28) in [Crazy-Marvin/EllaTheGame](https://github.com/Crazy-Marvin/EllaTheGame)
 <!--END_SECTION:activity-->
   
